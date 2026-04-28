@@ -33,7 +33,7 @@ performance across multiple hospitals.
 
 ## 📸 Dashboard Screenshots
 ### Overview Page
-![Overview](screenshots/ClinicalOverview.png)
+![Overview](ClinicalOverview.png)
 
 ### Patient Analysis Page
 ![Patient Analysis](screenshots/PatientAnalysis.png)

@@ -34,6 +34,7 @@ performance across multiple hospitals.
 ## 📸 Dashboard Screenshots
 ### Overview Page
 ![Overview](ClinicalOverview.png)
+https://github.com/AmatRahman-Analyst/Healthcare-powerbi-dashboard/blob/main/Clinical%20Overview.png
 
 ### Patient Analysis Page
 ![Patient Analysis](screenshots/PatientAnalysis.png)

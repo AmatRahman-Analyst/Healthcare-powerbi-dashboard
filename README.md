@@ -33,14 +33,13 @@ performance across multiple hospitals.
 
 ## 📸 Dashboard Screenshots
 ### Overview Page
-![Overview](screenshots/overview.png)
+![Overview](screenshots/ClinicalOverview.png)
 
 ### Patient Analysis Page
-![Patient Analysis](screenshots/patient_analysis.png)
+![Patient Analysis](screenshots/PatientAnalysis.png)
 
 ### Doctor Analysis Page ### Financial Page
-![Financial](screenshots/financial.png)
-![Doctor Analysis](screenshots/doctor_analysis.png)
+![Financial](screenshots/Doctor&FinancialAnalysis.png)
 
 ## 👤 About Me
 - *Name* : Amat ur Rahman

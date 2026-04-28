@@ -39,8 +39,9 @@ https://github.com/AmatRahman-Analyst/Healthcare-powerbi-dashboard/blob/main/Cli
 ### Patient Analysis Page
 ![Patient Analysis](screenshots/PatientAnalysis.png)
 
+https://github.com/AmatRahman-Analyst/Healthcare-powerbi-dashboard/blob/main/Project%20Summary.png#:~:text=Doctor%20%26%20Financial%20Analysis,Project%20Summary.png
+
 ### Doctor Analysis Page ### Financial Page
-![Financial](screenshots/Doctor&FinancialAnalysis.png)
 
 ## 👤 About Me
 - *Name* : Amat ur Rahman
